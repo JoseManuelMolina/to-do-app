@@ -1,0 +1,15 @@
+.todo{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+}
+
+.done{
+
+}
+
+span.done div.todo_text{
+    color: red !important;
+}

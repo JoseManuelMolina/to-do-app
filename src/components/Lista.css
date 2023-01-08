@@ -1,0 +1,16 @@
+.lista-tareas{
+    width: 90%;
+}
+
+.botonEliminar{
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5%;
+}
+
+.noTareas{
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    font-size: 1.25rem;
+}
